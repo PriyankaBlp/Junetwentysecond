@@ -1,2 +1,3 @@
 Indexchild add
-code for dog
+code for dog and dog
+code for buffalo
