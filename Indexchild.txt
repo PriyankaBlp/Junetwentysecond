@@ -1,3 +1,7 @@
+
 Indexchild add
 code for dog and dog
-code for buffalo
+code for buffal
+create login in dog 
+create login chetah
+
